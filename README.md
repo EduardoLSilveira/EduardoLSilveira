@@ -1,21 +1,14 @@
-# Olá, eu sou o Eduardo Lopes! 👋
+# Olá, Eu Sou o Eduardo Lopes
 
 **Desenvolvedor Java em Formação | Estudante de Análise e Desenvolvimento de Sistemas**
 
 ## Sobre Mim
 
-Formação Acadêmica E Objetivo Profissional
-Curse Análise E Desenvolvimento De Sistemas Pela Universidade São Judas Tadeu.
-Busque A Sua Primeira Oportunidade Como Desenvolvedor Júnior Para Aplicar Os Seus Conhecimentos Técnicos Em Um Ambiente Profissional.
-Mantenha O Foco Principal Na Construção De Soluções Com Java.
+Cursando Análise E Desenvolvimento De Sistemas Pela Universidade São Judas Tadeu. Busco Minha Primeira Oportunidade Como Desenvolvedor Júnior Para Aplicar Meus Conhecimentos Técnicos Em Um Ambiente Profissional, Com Foco Principal Na Construção De Soluções Com Java.
 
-Aprendizado Contínuo E Novas Tecnologias
-Marque A Sua Trajetória Pelo Aprendizado Contínuo.
-Expanda Os Seus Horizontes E Aprofunde Os Seus Estudos Em Inteligência Artificial E Python Através De Uma Formação Da Gerando Falcões Em Parceria Com A Microsoft.
+Minha Trajetória É Marcada Pelo Aprendizado Contínuo. Atualmente, Também Estou Expandindo Meus Horizontes E Aprofundando Meus Estudos Em Inteligência Artificial E Python Através De Uma Formação Da Gerando Falcões Em Parceria Com A Microsoft.
 
-Perfil E Localização
-Baseie-se Em São Paulo E Seja Um Profissional Dedicado E Curioso.
-Busque Sempre Conectar A Teoria E A Prática Para Resolver Problemas Reais Através Do Código.
+Com Base Em São Paulo, Sou Um Profissional Dedicado E Curioso, Sempre Em Busca De Conectar Teoria E Prática Para Resolver Problemas Reais Através Do Código.
 
 ## Habilidades e Tecnologias
 
