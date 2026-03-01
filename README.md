@@ -4,11 +4,11 @@
 
 ## Sobre Mim
 
-Cursando Análise E Desenvolvimento De Sistemas Pela Universidade São Judas Tadeu. Busco Minha Primeira Oportunidade Como Desenvolvedor Júnior Para Aplicar Meus Conhecimentos Técnicos Em Um Ambiente Profissional, Com Foco Principal Na Construção De Soluções Com Java.
+Cursando Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu. Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos técnicos em um ambiente profissional, com foco principal na construção de soluções com Java.
 
-Minha Trajetória É Marcada Pelo Aprendizado Contínuo. Atualmente, Também Estou Expandindo Meus Horizontes E Aprofundando Meus Estudos Em Inteligência Artificial E Python Através De Uma Formação Da Gerando Falcões Em Parceria Com A Microsoft.
+Minha trajetória é marcada pelo aprendizado contínuo. Atualmente, também estou expandindo meus horizontes e aprofundando meus estudos em Inteligência Artificial e Python através de uma formação da Gerando Falcões em parceria com a Microsoft.
 
-Com Base Em São Paulo, Sou Um Profissional Dedicado E Curioso, Sempre Em Busca De Conectar Teoria E Prática Para Resolver Problemas Reais Através Do Código.
+Com base em São Paulo, sou um profissional dedicado e curioso, sempre em busca de conectar teoria e prática para resolver problemas reais através do código.
 
 ## Habilidades e Tecnologias
 
