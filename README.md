@@ -1,6 +1,6 @@
 # Olá, Eu Sou o Eduardo Lopes
 
-**Desenvolvedor Java em Formação | Estudante de Análise e Desenvolvimento de Sistemas**
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
 ## Sobre Mim
 
